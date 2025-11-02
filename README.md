@@ -1,5 +1,7 @@
 # TP6DPBO2425C2
 
+Saya Rifa Muhammad Danindra dengan Nim 2405981 mengerjakan tugas praktikum 6 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
+
 # Desain Program
 App
 
